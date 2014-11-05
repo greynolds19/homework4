@@ -27,24 +27,24 @@ h1 {
 }
 
 /* Parks Divs */
-
-.park {
+/*GR renamed this div from park to place...*/
+.place{
 	background:#46B3FE;
 	padding: 20px;
 	border-radius: 22px;
 	margin-bottom: 29px;
 }
 
-.park.hover {
+.place.hover {
 	background:#8ECEFA;
 }
 
-.parkTitle {
+.placeTitle {
 	font-size: 36px;
 	font-weight: bold;
 }
 
-.parkInfo {
+.placeInfo {
 	font-size: 21px;
 	margin-bottom: 11px;
 }
