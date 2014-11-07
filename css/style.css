@@ -16,7 +16,7 @@ body, html {
 	background:#4682B4;
 	height:100vh;
 	color: white;
-	font-family: sans-serif;
+	font:Rockwell;
 	padding:20px;
 	box-sizing: border-box;
 }
@@ -25,6 +25,15 @@ h1 {
 	font-size: 42px;
 	margin-top: 0;
 }
+
+/*style "Ridgewood" differently in title with <span> tag*/
+.Rwood-text{
+	font-size:85px;
+	font-weight:bold;
+	color:black;
+}
+/*doesn't work yet*/
+
 
 /* Parks Divs */
 /*GR renamed this div from park to place...*/
@@ -40,13 +49,14 @@ h1 {
 }
 
 .placeTitle {
-	font-size: 36px;
+	font-size: 30px;
 	font-weight: bold;
 }
 
 .placeInfo {
 	font-size: 21px;
 	margin-bottom: 11px;
+	font:sans-serif;
 }
 
 #menu {
