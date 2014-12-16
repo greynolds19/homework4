@@ -1,2 +1,4 @@
-leaflet-2 demo built in class by Chris
+Homework 4
 ======================================
+
+Some of my favorite places in Ridgewood, Queens. 
